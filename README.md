@@ -7,7 +7,7 @@ Este repositório reúne os projetos desenvolvidos durante a disciplina, com foc
 ---
 
 ## 🗂️ Estrutura geral
-
+```
 PPGEEC2327-timeseries-forecast/
 ├── LICENSE
 ├── README.md
@@ -25,7 +25,7 @@ PPGEEC2327-timeseries-forecast/
 ├── Projeto_3/
 │   └── (reserva para o próximo estudo)
 └── requirements.txt
-
+```
 ---
 
 ## 🧩 Projetos
