@@ -9,7 +9,7 @@ O estudo tem como objetivo **prever o fluxo horário de veículos** com base em 
 utilizando modelos clássicos de séries temporais — **ARIMA**, **SARIMA** e **Holt-Winters** —  
 com foco em comparar o desempenho e a adequação de cada abordagem à série analisada.
 
-O vídeo no Youtube demonstra o passo a passo do projeto: 
+O vídeo no Youtube demonstra o passo a passo do projeto (clique na imagem abaixo para ser redirecionado para o YouTube): 
 
 [![Vídeo do Projeto 1](./output_figures/thumbnail.png)](https://www.youtube.com/watch?v=06hloRWP8Vw)
 
